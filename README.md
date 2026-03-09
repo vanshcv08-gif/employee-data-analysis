@@ -1,11 +1,11 @@
-# employee-data-analysis
-# Employee Data Analysis
+# customer-data-analysis
+# customer Data Analysis
 
 ## Project Description
-This project analyzes employee data using Python and Pandas.
+This project analyzes customer data using Python and Pandas.
 
 ## Dataset
-employee_data.csv contains employee information like salary, department, age etc.
+customer_data.csv contains customer information.
 
 ## Tools Used
 - Python
@@ -13,8 +13,9 @@ employee_data.csv contains employee information like salary, department, age etc
 - Jupyter Notebook
 
 ## Files
-employee_data.csv → dataset  
-employee_data_analysis.ipynb → analysis notebook
+customer_data.csv → dataset  
+customer_data_analysis.ipynb → analysis notebook
 
 ## Author
 Vansh Choudhary
+
